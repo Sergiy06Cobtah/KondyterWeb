@@ -3,3 +3,49 @@
     width: 150px;
 
 }
+.background_Main
+{
+    background-image: url("image/1.png");
+    background-size: cover;
+    background-position: center;
+}
+.corecting
+{
+    display: flex;
+    justify-content: space-around;
+}
+.corecting div
+{
+    width: 25%;
+    text-align: center;
+
+}
+
+.corecting div ul
+{
+    list-style-type: none;
+    padding: 0;
+}
+.text
+{
+    text-shadow: 1px 1px 1px;
+    text-align: center;
+}
+.pancace
+{
+     display: flex;
+    justify-content: space-around;
+}
+.pancace div
+{
+    width: 25%;
+    text-align: center;
+}
+.pancace div ul
+{
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
