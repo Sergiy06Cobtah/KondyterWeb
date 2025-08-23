@@ -1,0 +1,47 @@
+.hjk{
+    width: 60%;
+
+
+
+}
+.bht{
+    width: 40%;
+    font-size: 2rem;
+    text-align: center;
+
+
+
+}
+
+
+
+.img{
+    background-image: url('Pasted%20image.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+
+
+
+}
+.non{
+    list-style: none;
+
+}
+.non li{
+    display: flex;
+    align-items: center;
+
+
+
+}
+.img svg{
+    width: 50px;
+    height: 50px;
+}
+.non p{
+  font-size: 2rem;
+  margin-left: 12px;
+
+}
