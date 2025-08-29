@@ -1,0 +1,31 @@
+.m1 {
+    background-image: url("1.png");
+    background-position: center;
+    background-size: cover;
+}
+.h1 {
+    text-align: center;
+    font-size: 46px;
+    margin: 0;
+}
+.i1 {
+    width: 20%;
+    height: 30vh;
+}
+.d1 {
+    display: flex;
+    justify-content: space-between;
+}
+.i2 {
+    width: 33%;
+    height: 50vh;
+}
+.d2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.d3{
+ height: 100%;
+ width: 50%;
+}
