@@ -5,9 +5,11 @@
 
 }
 .bht{
-    width: 40%;
+    width: 23%;
     font-size: 2rem;
     text-align: center;
+    color: #2f2f2f;
+    text-shadow: -7px 3px 7px #5a3e36;
 
 
 
@@ -43,5 +45,10 @@
 .non p{
   font-size: 2rem;
   margin-left: 12px;
+
+
+}
+.bht h2{
+    font-weight: 100;
 
 }

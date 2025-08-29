@@ -1,0 +1,19 @@
+.backimg{
+    background-image: url(Pasted%20image.png);
+    background-size: cover;
+    background-position: center;
+}
+.tortyk{
+    width: 60%;
+    font-size: 2rem;
+
+}
+.shedevr{
+    width: 40%;
+    font-size: 1.5rem
+
+}
+.sectionStyles1{
+    display: flex;
+justify-content: flex-end;
+}
