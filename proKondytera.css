@@ -17,3 +17,12 @@
     display: flex;
 justify-content: flex-end;
 }
+.euro
+{
+ width: 50%;
+
+}
+.euro img
+{
+    width: 30%;
+}
