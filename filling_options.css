@@ -9,23 +9,8 @@
     background-size: cover;
     background-position: center;
 }
-.corecting {
-    display: flex;
-    justify-content: space-around;
-}
-.corecting div {
-    width: 25%;
-    text-align: center;
-}
 
-.corecting div ul {
-    list-style-type: none;
-    padding: 0;
-    height: 20vh;
-    font-family: "Caveat", cursive;
-    font-size: 1.4rem;
-    font-weight: 1000;
-}
+
 .text {
     text-align: center;
 }
@@ -45,40 +30,27 @@
     font-size: 1.4rem;
     font-weight: 1000;
 }
-.final {
-    display: flex;
-    justify-content: space-around;
-}
-.final div {
-    width: 25%;
-    text-align: center;
-}
-.final div ul {
-    list-style-type: none;
-    padding: 0;
-    height: 20vh;
-    font-family: "Caveat", cursive;
-    font-size: 1.4rem;
-    font-weight: 1000;
-}
-.corecting div h3 {
-    font-family: "Pattaya", sans-serif;
-}
+
+
+
 .pancace div h3 {
     font-family: "Pattaya", sans-serif;
+    font-size: 2rem;
+
 }
-.final div h3 {
-    font-family: "Pattaya", sans-serif;
-}
-.corecting div img
-{
-    box-shadow: 5px 5px 5px  black;
-}
+
+
+
 .pancace div img
 {
     box-shadow: 5px 5px 5px  black;
+
 }
-.final div img
+.il
 {
-    box-shadow: 5px 5px 5px  black;
+    background-color: lightpink;
+    border-radius: 10px;
+    font-size: large;
 }
+
+
