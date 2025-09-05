@@ -36,15 +36,16 @@ body
     background-image: url("1.png");
     background-position: center;
     background-size: cover;
+    padding: 32px
 }
 .h1 {
     text-align: center;
     font-size: 46px;
     margin: 0;
+    color: #5a3e36;
 }
 .i1 {
     width: 20%;
-    height: 30vh;
 }
 .d1 {
     display: flex;
@@ -52,7 +53,7 @@ body
 }
 .i2 {
     width: 33%;
-    height: 50vh;
+
 }
 .d2 {
     display: flex;
