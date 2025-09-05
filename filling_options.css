@@ -65,13 +65,16 @@
     {
         display: block;
         width: 100%;
-        font-size: larger;
 
     }
     .pancace div
     {
         width: 100%;
 
+    }
+    .pancace div ul
+    {
+      font-size: 1.4rem;
     }
 
 }
