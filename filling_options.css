@@ -65,11 +65,13 @@
     {
         display: block;
         width: 100%;
+        font-size: larger;
 
     }
     .pancace div
     {
         width: 100%;
+
     }
 
 }
