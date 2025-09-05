@@ -57,8 +57,20 @@
 {
     padding-bottom: 40px;
 }
-uyt
+@media(max-width:1000px)
 {
+
+
+    .pancace
+    {
+        display: block;
+        width: 100%;
+
+    }
+    .pancace div
+    {
+        width: 100%;
+    }
 
 }
 
