@@ -81,11 +81,13 @@
     }
     .pancace div img
     {
-        height: 50%
+        height: 50%;
+        width: 25%;
     }
     .pancace div h3
     {
         height: 20%;
+        font-size: 4rem;
     }
 
 }
