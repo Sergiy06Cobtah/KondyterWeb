@@ -6,14 +6,84 @@
 .tortyk{
     width: 60%;
     font-size: 2rem;
+    padding: 5%;
+    font-family: "Vollkorn", serif;
 
 }
 .shedevr{
-    width: 40%;
+    width: 68%;
     font-size: 1.5rem
+        font-family: "Vollkorn", serif;
 
 }
 .sectionStyles1{
     display: flex;
 justify-content: flex-end;
+     background-image: url(1.png);
+}
+.euro
+{
+ width: 50%;
+    padding: 5%;
+
+}
+.euro img
+{
+    width: 30%;
+}
+.c1{
+    transform: rotate(12deg);
+
+}
+.c2{
+    transform: rotate(-12deg);
+
+}
+.c3{
+    transform: rotate(12deg);
+
+}
+.c4{
+    transform: rotate(-12deg);
+
+}
+.c5{
+    transform: rotate(12deg);
+
+}
+.c6{
+    transform: rotate(-12deg);
+
+}
+.c7{
+    transform: rotate(12deg);
+
+}
+.c8{
+    transform: rotate(-12deg);
+
+}
+.c9{
+    transform: rotate(12deg);
+
+}
+.sectionStyles2{
+     background-image: url(1.png);
+}
+.euro2{
+    width: 50%;
+
+}
+.europapa{
+font-size: xx-large;
+    width: 90%;
+    text-align: center;
+    padding: 5%;
+    font-family: "Vollkorn", serif;
+
+
+
+}
+.euro3{
+    display: flex;
 }
