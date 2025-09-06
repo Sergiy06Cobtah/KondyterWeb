@@ -52,3 +52,9 @@
     font-weight: 100;
 
 }
+@media (max-width: 1000px){
+    .img
+    {
+        font-size: 2rem;
+    }
+}
