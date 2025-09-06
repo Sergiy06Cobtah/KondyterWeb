@@ -96,3 +96,21 @@ body
     height: 100%;
 
 }
+@media(max-width:1000px){
+    .d1{
+     display: block;
+    padding: 15%;
+    }
+    .d2{
+     display: block;
+    }
+    .i1 {
+    width: 100%;
+    padding-bottom: 5%;
+
+}    .i2 {
+    width: 100%;
+    padding-bottom: 5%;
+
+}
+}
