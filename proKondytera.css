@@ -1,89 +1,85 @@
-.backimg{
-    background-image: url(Pasted%20image.png);
-    background-size: cover;
-    background-position: center;
-}
-.tortyk{
+.tortyk {
     width: 60%;
     font-size: 2rem;
     padding: 5%;
     font-family: "Vollkorn", serif;
-
+    background-color: rgba(255, 193, 149, 0.6);
+    background-size: cover;
+    border-radius: 5%;
+    margin: 0 auto;
 }
-.shedevr{
-    width: 68%;
-    font-size: 2.5rem
-        font-family: "Vollkorn", serif;
 
-}
-.sectionStyles1{
+.sectionStyles1 {
     display: flex;
-justify-content: flex-end;
-     background-image: url(1.png);
-}
-.euro
-{
- width: 50%;
-    padding: 5%;
+    justify-content: flex-end;
 
+    padding: 5%;
 }
-.euro img
-{
+.euro {
+    width: 50%;
+    padding: 5%;
+}
+.euro img {
     width: 30%;
 }
-.c1{
+.c1 {
     transform: rotate(12deg);
-
 }
-.c2{
+.c2 {
     transform: rotate(-12deg);
-
 }
-.c3{
+.c3 {
     transform: rotate(12deg);
-
 }
-.c4{
+.c4 {
     transform: rotate(-12deg);
-
 }
-.c5{
+.c5 {
     transform: rotate(12deg);
-
 }
-.c6{
+.c6 {
     transform: rotate(-12deg);
-
 }
-.c7{
+.c7 {
     transform: rotate(12deg);
-
 }
-.c8{
+.c8 {
     transform: rotate(-12deg);
-
 }
-.c9{
+.c9 {
     transform: rotate(12deg);
+}
 
-}
-.sectionStyles2{
-     background-image: url(1.png);
-}
-.euro2{
+.euro2 {
     width: 50%;
-
 }
-.europapa{
-font-size: xx-large;
+.europapa {
+    font-size: xx-large;
     width: 90%;
     text-align: center;
     padding: 5%;
     font-family: "Vollkorn", serif;
-
-
-
+    background-color: rgba(255, 207, 173, 0.6);
+    background-size: cover;
+    border-radius: 5%;
 }
-.euro3{
+.euro3 {
     display: flex;
+}
+.mainStyles {
+    background-image: url(1.png);
+}
+@media (max-width: 1000px) {
+    .tortyk {
+        width: 70%;
+        font-size: 2.5rem;
+    }
+
+   .europapa {
+    font-size: 2rem;
+    width: 100%;
+
+
+       }
+
 }
