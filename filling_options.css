@@ -77,7 +77,15 @@
     .pancace div ul
     {
       font-size: 2rem;
-        height: auto;
+        height: 30%;
+    }
+    .pancace div img
+    {
+        height: 50%
+    }
+    .pancace div h3
+    {
+        height: 20%;
     }
 
 }
