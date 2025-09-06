@@ -77,7 +77,7 @@
     .pancace div ul
     {
       font-size: 5rem;
-        height: 30%;
+        height: max-content;
     }
     .pancace div img
     {
