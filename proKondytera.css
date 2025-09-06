@@ -1,25 +1,23 @@
-.backimg{
-    background-image: url(Pasted%20image.png);
-    background-size: cover;
-    background-position: center;
-}
+
 .tortyk{
     width: 60%;
     font-size: 2rem;
     padding: 5%;
     font-family: "Vollkorn", serif;
+    background-color: rgba(255, 193, 149, 0.6);
+    background-size: cover;
+    border-radius: 5%;
+    margin: 0 auto;
 
 }
-.shedevr{
-    width: 68%;
-    font-size: 2.5rem
-        font-family: "Vollkorn", serif;
 
-}
+
+
 .sectionStyles1{
     display: flex;
 justify-content: flex-end;
-     background-image: url(1.png);
+
+    padding: 5%;
 }
 .euro
 {
@@ -67,9 +65,7 @@ justify-content: flex-end;
     transform: rotate(12deg);
 
 }
-.sectionStyles2{
-     background-image: url(1.png);
-}
+
 .euro2{
     width: 50%;
 
@@ -80,10 +76,17 @@ font-size: xx-large;
     text-align: center;
     padding: 5%;
     font-family: "Vollkorn", serif;
+     background-color: rgba(255, 207, 173, 0.6);
+    background-size: cover;
+    border-radius: 5%;
 
 
 
 }
 .euro3{
     display: flex;
+}
+.mainStyles{
+    background-image: url(1.png);
+
 }
