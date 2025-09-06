@@ -87,7 +87,8 @@
     .pancace div h3
     {
         height: 20%;
-        font-size: 4.5rem;
+        font-size: 4rem;
+        align-content: center;
     }
 
 }
