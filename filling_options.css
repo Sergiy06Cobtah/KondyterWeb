@@ -56,7 +56,7 @@
 .ugc
 {
     padding-bottom: 40px;
-    padding: 5%;
+    padding: 10%;
 }
 @media(max-width:1000px)
 {
@@ -97,7 +97,7 @@
     }
     .ugc
     {
-        padding: 5%;
+        padding: 10%;
     }
 
 }
