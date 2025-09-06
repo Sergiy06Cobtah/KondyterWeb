@@ -82,6 +82,7 @@
     .pancace div img
     {
         width: 50%;
+        align-content: center;
 
     }
     .pancace div h3
