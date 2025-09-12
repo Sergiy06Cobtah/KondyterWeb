@@ -111,4 +111,18 @@ body {
     font-size: 62px;
     color: #5a3e36;
 }
+    .hjk{
+      font-size: 2rem;
+
+
+    }
+    .yte{
+        height: 11rem;
+        width: 100%;
+        font-size: 2rem
+    }
+    .uyt{
+        width: 100%;
+    }
+
 }

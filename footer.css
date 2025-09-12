@@ -53,8 +53,25 @@
 
 }
 @media (max-width: 1000px){
+
+    .bht{
+      font-size: 2.5rem;
+
+
+    }
+    .non p{
+    font-size: 3rem;
+
+    }
+
+
+
+
+
+
     .img
     {
         font-size: 5rem;
     }
+
 }
