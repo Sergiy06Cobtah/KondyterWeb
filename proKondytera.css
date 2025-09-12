@@ -81,5 +81,18 @@
 
 
        }
+     .hjk{
+      font-size: 2rem;
+
+
+    }
+    .yte{
+        height: 11rem;
+        width: 100%;
+        font-size: 1.5rem
+    }
+    .uyt{
+        width: 100%;
+    }
 
 }

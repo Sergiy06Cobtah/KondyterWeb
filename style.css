@@ -113,4 +113,18 @@ body
     padding-bottom: 5%;
 
 }
+    .hjk{
+      font-size: 2rem;
+
+
+    }
+    .yte{
+        height: 11rem;
+        width: 100%;
+        font-size: 2rem
+    }
+    .uyt{
+        width: 100%;
+    }
+
 }
